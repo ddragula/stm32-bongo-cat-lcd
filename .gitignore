@@ -1,0 +1,8 @@
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+build
+*.backup
+.mxproject
