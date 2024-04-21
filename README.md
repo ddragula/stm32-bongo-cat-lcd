@@ -7,9 +7,7 @@ It displays an interactive Bongo Cat meme that reacts when pressing buttons.
 
 ## Pin Configuration
 
-VCC - 3.3V
-
-| STM Pin   | Connected to       | Pin Abbreviation    |
+| STM Pin   | Connected to       | Pin mode            |
 | --------- | ------------------ | ------------------- |
 | PC3       | DIN                | MOSI                |
 | PB10      | CLK                | SCL                 |
@@ -19,3 +17,5 @@ VCC - 3.3V
 | PA7       | BL (Backlight)     | PWM Timer           |
 | PB5       | Left Button        | GPIO_In (Pull-down) |
 | PB5       | Right Button       | GPIO_In (Pull-down) |
+
+*(VCC - 3.3V)*
